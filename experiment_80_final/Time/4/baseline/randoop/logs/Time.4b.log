@@ -1,0 +1,13 @@
+######  Start test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 09:02:59  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Time
+ -v 4b
+ -n 1
+ -b 180
+ -c /defects4j/framework/projects/Time/modified_classes/4.src
+ -s 1004
+Created test suite archive: Time-4b-randoop.1.tar.bz2
+Moved test suite archive to output directory: /defects4j/experiment_80/Time/4/baseline/randoop/Time/randoop/1
+######  End test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 09:06:24  ######
