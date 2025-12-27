@@ -1,0 +1,171 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:3: ����: �����org.apache.commons.lang������
+import org.apache.commons.lang.StringUtils;
+                              ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:4: ����: �����org.jsoup.parser������
+import org.jsoup.parser.Tag;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:5: ����: �����org.jsoup.select������
+import org.jsoup.select.Elements;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:7: ����: �����org.mockito������
+import org.mockito.Mockito;
+                  ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:14: ����: �����org.mockito������
+import static org.mockito.Mockito.*;
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:20: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:20: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:22: ����: �Ҳ�������
+        Attributes attributes = new Attributes();
+        ^
+  ����:   �� Attributes
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:22: ����: �Ҳ�������
+        Attributes attributes = new Attributes();
+                                    ^
+  ����:   �� Attributes
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:25: ����: �Ҳ�������
+        Element element = new Element(tag, baseUri, attributes);
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:25: ����: �Ҳ�������
+        Element element = new Element(tag, baseUri, attributes);
+                              ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:37: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:37: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:37: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:38: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:38: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:38: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:39: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:39: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:39: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:45: ����: �Ҳ�������
+        Elements children = parent.children();
+        ^
+  ����:   �� Elements
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:55: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("h1"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:55: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("h1"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:55: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("h1"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:64: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:64: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("p"), "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:64: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("p"), "http://example.com");
+                                      ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:83: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:83: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:83: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                                      ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:102: ����: �Ҳ�������
+        assertTrue(StringUtils.contains(element.className(), "active"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:103: ����: �Ҳ�������
+        assertTrue(StringUtils.contains(element.className(), "highlight"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:120: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:120: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\qwen\TextNodeTest.java:120: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                                      ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+35 ������
+

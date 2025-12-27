@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "26",
+  "model": "deepseek",
+  "test_class": "FractionTest",
+  "test_file": "FractionTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 97.27,
+    "branch_coverage": 92.55,
+    "lines_covered": 178,
+    "lines_valid": 183,
+    "branches_covered": 87,
+    "branches_valid": 94
+  },
+  "timestamp": "2025-12-26T21:12:16.282797"
+}

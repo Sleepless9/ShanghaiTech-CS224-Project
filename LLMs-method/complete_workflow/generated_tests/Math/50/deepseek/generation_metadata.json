@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Math",
+  "bug_id": 50,
+  "model": "DEEPSEEK",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Math\\50\\code\\org\\apache\\commons\\math\\optimization\\direct\\BOBYQAOptimizer.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Math\\50\\deepseek\\BOBYQAOptimizerTest.java",
+  "metadata": {
+    "test_class_name": "BOBYQAOptimizerTest",
+    "package_name": "org.apache.commons.math.optimization.direct",
+    "num_assertions": 20,
+    "num_test_methods": 7,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

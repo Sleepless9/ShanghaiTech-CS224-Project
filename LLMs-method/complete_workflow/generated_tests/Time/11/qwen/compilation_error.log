@@ -1,0 +1,385 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:4: ����: �����org.mockito������
+import static org.mockito.Mockito.*;
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:9: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:10: ����: �Ҳ�������
+import org.joda.time.LocalDateTime;
+                    ^
+  ����:   �� LocalDateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:11: ����: �Ҳ�������
+import org.joda.time.ReadablePartial;
+                    ^
+  ����:   �� ReadablePartial
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:12: ����: �����org.joda.time.chrono������
+import org.joda.time.chrono.ISOChronology;
+                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:13: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.CharacterLiteral;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:14: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.Composite;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:15: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.StringLiteral;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:16: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TextField;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:17: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TwoDigitYear;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:18: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.UnpaddedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:19: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.PaddedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:20: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.FixedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:21: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.Fraction;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:22: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneOffset;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:23: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneName;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:24: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneId;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:25: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.MatchingParser;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:26: ����: �Ҳ�������
+import org.joda.time.MockBucket;
+                    ^
+  ����:   �� MockBucket
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:27: ����: �Ҳ�������
+import org.joda.time.TestDateTimeUtils;
+                    ^
+  ����:   �� TestDateTimeUtils
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:28: ����: �����org.joda.time.field������
+import org.joda.time.field.SkipUndoDateTimeField;
+                          ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:29: ����: �����org.joda.time.tz������
+import org.joda.time.tz.CachedDateTimeZone;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:30: ����: �����org.joda.time.tz������
+import org.joda.time.tz.ZoneInfoProvider;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:36: ����: �Ҳ�������
+    private DateTimeFormatterBuilder builder;
+            ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:37: ����: �Ҳ�������
+    private MockBucket bucket;
+            ^
+  ����:   �� MockBucket
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:41: ����: �Ҳ�������
+        builder = new DateTimeFormatterBuilder();
+                      ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:42: ����: �Ҳ�������
+        bucket = new MockBucket(0L, null, null, null);
+                     ^
+  ����:   �� MockBucket
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:65: ����: �Ҳ�������
+        assertTrue(element instanceof CharacterLiteral);
+                                      ^
+  ����:   �� CharacterLiteral
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:66: ����: �Ҳ�������
+        assertEquals('A', ((CharacterLiteral) element).iValue);
+                            ^
+  ����:   �� CharacterLiteral
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:73: ����: �Ҳ�������
+        assertTrue(element instanceof StringLiteral);
+                                      ^
+  ����:   �� StringLiteral
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:74: ����: �Ҳ�������
+        assertEquals("ABC", ((StringLiteral) element).iValue);
+                              ^
+  ����:   �� StringLiteral
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:90: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 1, 4);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:93: ����: �Ҳ�������
+        assertTrue(printer instanceof UnpaddedNumber);
+                                      ^
+  ����:   �� UnpaddedNumber
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:94: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.year(), ((UnpaddedNumber) printer).iFieldType);
+                                                 ^
+  ����:   �� UnpaddedNumber
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:94: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.year(), ((UnpaddedNumber) printer).iFieldType);
+                     ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:98: ����: �Ҳ�������
+        builder.appendFixedDecimal(DateTimeFieldType.monthOfYear(), 2);
+                                   ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:101: ����: �Ҳ�������
+        assertTrue(printer instanceof FixedNumber);
+                                      ^
+  ����:   �� FixedNumber
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:102: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.monthOfYear(), ((FixedNumber) printer).iFieldType);
+                                                        ^
+  ����:   �� FixedNumber
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:102: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.monthOfYear(), ((FixedNumber) printer).iFieldType);
+                     ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:106: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.dayOfMonth(), 3, 2); // max < min
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:108: ����: �Ҳ�������
+        assertEquals(2, ((PaddedNumber) printer).iMaxParsedDigits);
+                          ^
+  ����:   �� PaddedNumber
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:114: ����: �Ҳ�������
+        builder.appendText(DateTimeFieldType.monthOfYear());
+                           ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:117: ����: �Ҳ�������
+        assertTrue(element instanceof TextField);
+                                      ^
+  ����:   �� TextField
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:118: ����: �Ҳ�������
+        assertFalse(((TextField) element).iShort);
+                      ^
+  ����:   �� TextField
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:122: ����: �Ҳ�������
+        builder.appendShortText(DateTimeFieldType.dayOfWeek());
+                                ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:124: ����: �Ҳ�������
+        assertTrue(element instanceof TextField);
+                                      ^
+  ����:   �� TextField
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:125: ����: �Ҳ�������
+        assertTrue(((TextField) element).iShort);
+                     ^
+  ����:   �� TextField
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:137: ����: �Ҳ�������
+        builder.append(new MockDateTimeParser());
+                           ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:143: ����: �Ҳ�������
+        builder.appendLiteral("test").append(new MockDateTimeParser());
+                                                 ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:155: ����: �Ҳ�������
+        builder.append(new MockDateTimeParser());
+                           ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:164: ����: �Ҳ�������
+        assertTrue(element instanceof TwoDigitYear);
+                                      ^
+  ����:   �� TwoDigitYear
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:165: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.year(), ((TwoDigitYear) element).iType);
+                                                 ^
+  ����:   �� TwoDigitYear
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:165: ����: �Ҳ�������
+        assertEquals(DateTimeFieldType.year(), ((TwoDigitYear) element).iType);
+                     ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:166: ����: �Ҳ�������
+        assertEquals(2000, ((TwoDigitYear) element).iPivot);
+                             ^
+  ����:   �� TwoDigitYear
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:172: ����: �Ҳ�������
+        assertTrue(element instanceof TwoDigitYear);
+                                      ^
+  ����:   �� TwoDigitYear
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:173: ����: �Ҳ�������
+        assertTrue(((TwoDigitYear) element).iLenientParse);
+                     ^
+  ����:   �� TwoDigitYear
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:178: ����: �Ҳ�������
+        builder.appendFraction(DateTimeFieldType.secondOfDay(), 1, 3);
+                               ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:181: ����: �Ҳ�������
+        assertTrue(element instanceof Fraction);
+                                      ^
+  ����:   �� Fraction
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:182: ����: �Ҳ�������
+        assertEquals(1, ((Fraction) element).iMinDigits);
+                          ^
+  ����:   �� Fraction
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:183: ����: �Ҳ�������
+        assertEquals(3, ((Fraction) element).iMaxDigits);
+                          ^
+  ����:   �� Fraction
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:192: ����: �Ҳ�������
+        assertTrue(element instanceof TimeZoneOffset);
+                                      ^
+  ����:   �� TimeZoneOffset
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:193: ����: �Ҳ�������
+        assertEquals("Z", ((TimeZoneOffset) element).iZeroOffsetPrintText);
+                            ^
+  ����:   �� TimeZoneOffset
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:196: ����: �Ҳ�������
+        Map<String, DateTimeZone> lookup = new HashMap<>();
+                    ^
+  ����:   �� DateTimeZone
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:197: ����: �Ҳ�������
+        lookup.put("UTC", DateTimeZone.UTC);
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:201: ����: �Ҳ�������
+        assertTrue(element instanceof TimeZoneName);
+                                      ^
+  ����:   �� TimeZoneName
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:202: ����: �Ҳ�������
+        assertSame(lookup, ((TimeZoneName) element).iParseLookup);
+                             ^
+  ����:   �� TimeZoneName
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:208: ����: �Ҳ�������
+        assertSame(TimeZoneId.INSTANCE, element);
+                   ^
+  ����:   ���� TimeZoneId
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:213: ����: �Ҳ�������
+        MockDateTimeParser mockParser = new MockDateTimeParser();
+        ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:213: ����: �Ҳ�������
+        MockDateTimeParser mockParser = new MockDateTimeParser();
+                                            ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:217: ����: �Ҳ�������
+        assertTrue(element instanceof MatchingParser);
+                                      ^
+  ����:   �� MatchingParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:218: ����: �Ҳ�������
+        MatchingParser matchingParser = (MatchingParser) element;
+        ^
+  ����:   �� MatchingParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:218: ����: �Ҳ�������
+        MatchingParser matchingParser = (MatchingParser) element;
+                                         ^
+  ����:   �� MatchingParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:226: ����: �Ҳ�������
+        DateTimeParser[] parsers = {new MockDateTimeParser(), new MockDateTimeParser()};
+        ^
+  ����:   �� DateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:226: ����: �Ҳ�������
+        DateTimeParser[] parsers = {new MockDateTimeParser(), new MockDateTimeParser()};
+                                        ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:226: ����: �Ҳ�������
+        DateTimeParser[] parsers = {new MockDateTimeParser(), new MockDateTimeParser()};
+                                                                  ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:230: ����: �Ҳ�������
+        assertTrue(parser instanceof MatchingParser);
+                                     ^
+  ����:   �� MatchingParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:231: ����: �Ҳ�������
+        assertEquals(2, ((MatchingParser) parser).iParsers.length);
+                          ^
+  ����:   �� MatchingParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:236: ����: �Ҳ�������
+        builder.append((DateTimeFormatter) null);
+                        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:241: ����: �Ҳ�������
+        builder.append((DateTimePrinter) null);
+                        ^
+  ����:   �� DateTimePrinter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:246: ����: �Ҳ�������
+        builder.append((DateTimeParser) null);
+                        ^
+  ����:   �� DateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:261: ����: �Ҳ�������
+        builder.append(new MockDateTimeParser());
+                           ^
+  ����:   �� MockDateTimeParser
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:269: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\11\qwen\DateTimeZoneTest.java:276: ����: �Ҳ�������
+        DateTimeFormatter formatter2 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+83 ������
+

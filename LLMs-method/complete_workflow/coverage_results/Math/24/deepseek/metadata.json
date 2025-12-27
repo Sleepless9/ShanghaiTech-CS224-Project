@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "24",
+  "model": "deepseek",
+  "test_class": "BrentOptimizerTest",
+  "test_file": "BrentOptimizerTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 90.83,
+    "branch_coverage": 82.43,
+    "lines_covered": 109,
+    "lines_valid": 120,
+    "branches_covered": 61,
+    "branches_valid": 74
+  },
+  "timestamp": "2025-12-26T21:07:23.637403"
+}

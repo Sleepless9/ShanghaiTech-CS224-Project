@@ -1,0 +1,101 @@
+Project, BugID, Model   , CoverageSuccess, TestPassed, LineCoverage(%), BranchCoverage(%), LinesCovered, LinesValid, BranchesCovered, BranchesValid
+Jsoup  ,     4, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Jsoup  ,     5, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Jsoup  ,     6, qwen    , No             , Yes       ,                ,                  ,             ,           ,                ,              
+Jsoup  ,     7, qwen    , Yes            , Yes       ,          100.0 ,             96.15,           80,         80,              25,            26
+Jsoup  ,     8, qwen    , Yes            , Yes       ,           93.53,             82.5 ,          130,        139,              33,            40
+Jsoup  ,     9, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Jsoup  ,    11, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Jsoup  ,    13, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Jsoup  ,    14, deepseek, Yes            , Yes       ,           54.0 ,             49.3 ,          709,       1313,             212,           430
+Jsoup  ,    14, qwen    , Yes            , Yes       ,           54.0 ,             49.3 ,          709,       1313,             212,           430
+Jsoup  ,    15, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     1, deepseek, Yes            , Yes       ,           98.13,             87.28,          368,        375,             295,           338
+Lang   ,     1, qwen    , Yes            , Yes       ,           98.13,             87.28,          368,        375,             295,           338
+Lang   ,     3, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     3, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     4, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     4, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     5, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,     5, qwen    , Yes            , Yes       ,          100.0 ,             96.43,           82,         82,              54,            56
+Lang   ,     6, deepseek, Yes            , Yes       ,           93.33,            100.0 ,           28,         30,              12,            12
+Lang   ,     6, qwen    , Yes            , Yes       ,           93.33,            100.0 ,           28,         30,              12,            12
+Lang   ,     9, deepseek, Yes            , Yes       ,           92.31,             85.37,          252,        273,             105,           123
+Lang   ,     9, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    10, deepseek, Yes            , Yes       ,           91.4 ,             83.46,          255,        279,             106,           127
+Lang   ,    10, qwen    , Yes            , Yes       ,           91.4 ,             83.46,          255,        279,             106,           127
+Lang   ,    11, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    11, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    12, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    12, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    13, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    13, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    14, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    14, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    16, deepseek, Yes            , Yes       ,           95.73,             84.64,          359,        375,             303,           358
+Lang   ,    16, qwen    , Yes            , Yes       ,           95.73,             84.64,          359,        375,             303,           358
+Lang   ,    17, deepseek, Yes            , Yes       ,           93.94,            100.0 ,           31,         33,              14,            14
+Lang   ,    17, qwen    , Yes            , Yes       ,           93.94,            100.0 ,           31,         33,              14,            14
+Lang   ,    19, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    19, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    20, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    20, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    21, deepseek, Yes            , Yes       ,           95.92,             88.99,          306,        319,             194,           218
+Lang   ,    21, qwen    , Yes            , Yes       ,           95.92,             88.99,          306,        319,             194,           218
+Lang   ,    22, deepseek, Yes            , Yes       ,           98.92,             94.68,          275,        278,             178,           188
+Lang   ,    22, qwen    , Yes            , Yes       ,           98.92,             94.68,          275,        278,             178,           188
+Lang   ,    24, deepseek, Yes            , Yes       ,           97.87,             87.64,          368,        376,             312,           356
+Lang   ,    24, qwen    , Yes            , Yes       ,           97.87,             87.64,          368,        376,             312,           356
+Lang   ,    26, deepseek, Yes            , Yes       ,           72.47,             61.4 ,          337,        465,             140,           228
+Lang   ,    26, qwen    , Yes            , Yes       ,           72.47,             61.4 ,          337,        465,             140,           228
+Lang   ,    27, deepseek, Yes            , Yes       ,           97.86,             87.78,          366,        374,             309,           352
+Lang   ,    27, qwen    , Yes            , Yes       ,           97.86,             87.78,          366,        374,             309,           352
+Lang   ,    28, deepseek, Yes            , Yes       ,          100.0 ,            100.0 ,           20,         20,              14,            14
+Lang   ,    28, qwen    , Yes            , Yes       ,          100.0 ,            100.0 ,           20,         20,              14,            14
+Lang   ,    29, deepseek, Yes            , Yes       ,           93.62,             82.0 ,          132,        141,              41,            50
+Lang   ,    29, qwen    , Yes            , Yes       ,           93.62,             82.0 ,          132,        141,              41,            50
+Lang   ,    31, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    31, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    33, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    33, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    38, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Lang   ,    38, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Math   ,     5, deepseek, Yes            , Yes       ,           95.58,             91.76,          216,        226,             156,           170
+Math   ,     5, qwen    , Yes            , Yes       ,           95.58,             91.76,          216,        226,             156,           170
+Math   ,     9, deepseek, Yes            , Yes       ,           82.61,             75.0 ,           38,         46,              12,            16
+Math   ,     9, qwen    , Yes            , Yes       ,           82.61,             75.0 ,           38,         46,              12,            16
+Math   ,    10, deepseek, Yes            , Yes       ,          100.0 ,             99.65,          553,        553,             285,           286
+Math   ,    11, deepseek, Yes            , Yes       ,           83.05,             78.57,           49,         59,              22,            28
+Math   ,    13, deepseek, Yes            , Yes       ,           76.54,             83.33,           62,         81,              15,            18
+Math   ,    13, qwen    , Yes            , Yes       ,           76.54,             83.33,           62,         81,              15,            18
+Math   ,    17, deepseek, Yes            , Yes       ,           90.77,             88.21,          934,       1029,             651,           738
+Math   ,    17, qwen    , Yes            , Yes       ,           90.77,             88.21,          934,       1029,             651,           738
+Math   ,    19, deepseek, Yes            , Yes       ,           88.02,             78.68,          441,        501,             214,           272
+Math   ,    20, deepseek, Yes            , Yes       ,           87.8 ,             78.36,          439,        500,             210,           268
+Math   ,    20, qwen    , Yes            , Yes       ,           87.8 ,             78.36,          439,        500,             210,           268
+Math   ,    24, deepseek, Yes            , Yes       ,           90.83,             82.43,          109,        120,              61,            74
+Math   ,    24, qwen    , Yes            , Yes       ,           90.83,             82.43,          109,        120,              61,            74
+Math   ,    25, deepseek, Yes            , Yes       ,           98.94,             92.86,           93,         94,              26,            28
+Math   ,    25, qwen    , Yes            , Yes       ,           98.94,             92.86,           93,         94,              26,            28
+Math   ,    26, deepseek, Yes            , Yes       ,           97.27,             92.55,          178,        183,              87,            94
+Math   ,    27, deepseek, Yes            , Yes       ,           97.27,             92.55,          178,        183,              87,            94
+Math   ,    27, qwen    , Yes            , Yes       ,           97.27,             92.55,          178,        183,              87,            94
+Math   ,    28, deepseek, Yes            , Yes       ,          100.0 ,            100.0 ,           79,         79,              48,            48
+Math   ,    28, qwen    , Yes            , Yes       ,          100.0 ,            100.0 ,           79,         79,              48,            48
+Math   ,    30, deepseek, Yes            , Yes       ,           91.18,            100.0 ,           31,         34,              10,            10
+Math   ,    31, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Math   ,    31, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Math   ,    32, deepseek, Yes            , Yes       ,           70.41,             61.25,          119,        169,              49,            80
+Math   ,    32, qwen    , Yes            , Yes       ,           70.41,             61.25,          119,        169,              49,            80
+Math   ,    33, deepseek, Yes            , Yes       ,           94.59,             91.13,          175,        185,             113,           124
+Math   ,    34, deepseek, Yes            , Yes       ,           82.0 ,             77.27,           41,         50,              17,            22
+Math   ,    34, qwen    , Yes            , Yes       ,           82.0 ,             77.27,           41,         50,              17,            22
+Math   ,    37, deepseek, Yes            , Yes       ,           94.55,             90.51,          208,        220,             143,           158
+Math   ,    41, deepseek, Yes            , Yes       ,           91.07,             69.57,          102,        112,              32,            46
+Math   ,    41, qwen    , Yes            , Yes       ,           91.07,             69.57,          102,        112,              32,            46
+Math   ,    53, deepseek, Yes            , Yes       ,           95.88,             92.98,          163,        170,             106,           114
+Math   ,    53, qwen    , Yes            , Yes       ,           95.88,             92.98,          163,        170,             106,           114
+Math   ,    57, deepseek, No             , No        ,                ,                  ,             ,           ,                ,              
+Math   ,    57, qwen    , No             , No        ,                ,                  ,             ,           ,                ,              
+Math   ,    58, deepseek, Yes            , Yes       ,           66.67,             62.07,           64,         96,              36,            58
+Math   ,    58, qwen    , Yes            , Yes       ,           66.67,             62.07,           64,         96,              36,            58

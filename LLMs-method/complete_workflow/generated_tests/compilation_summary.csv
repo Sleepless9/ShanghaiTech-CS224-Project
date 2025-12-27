@@ -1,0 +1,161 @@
+Project,BugID,Model,CompilationSuccess,Error
+Lang,1,deepseek,True,
+Lang,1,qwen,True,
+Lang,3,deepseek,True,
+Lang,3,qwen,True,
+Lang,4,deepseek,True,
+Lang,4,qwen,True,
+Lang,5,deepseek,True,
+Lang,5,qwen,True,
+Lang,6,deepseek,True,
+Lang,6,qwen,True,
+Lang,9,deepseek,True,
+Lang,9,qwen,True,
+Lang,10,deepseek,True,
+Lang,10,qwen,True,
+Lang,11,deepseek,True,
+Lang,11,qwen,True,
+Lang,12,deepseek,True,
+Lang,12,qwen,True,
+Lang,13,deepseek,True,
+Lang,13,qwen,True,
+Lang,14,deepseek,True,
+Lang,14,qwen,True,
+Lang,16,deepseek,True,
+Lang,16,qwen,True,
+Lang,17,deepseek,True,
+Lang,17,qwen,True,
+Lang,19,deepseek,True,
+Lang,19,qwen,True,
+Lang,20,deepseek,True,
+Lang,20,qwen,True,
+Lang,21,deepseek,True,
+Lang,21,qwen,True,
+Lang,22,deepseek,True,
+Lang,22,qwen,True,
+Lang,24,deepseek,True,
+Lang,24,qwen,True,
+Lang,26,deepseek,True,
+Lang,26,qwen,True,
+Lang,27,deepseek,True,
+Lang,27,qwen,True,
+Lang,28,deepseek,True,
+Lang,28,qwen,True,
+Lang,29,deepseek,True,
+Lang,29,qwen,True,
+Lang,31,deepseek,True,
+Lang,31,qwen,True,
+Lang,33,deepseek,True,
+Lang,33,qwen,True,
+Lang,38,deepseek,True,
+Lang,38,qwen,True,
+Math,2,deepseek,False,Compilation failed
+Math,2,qwen,False,Compilation failed
+Math,5,deepseek,True,
+Math,5,qwen,True,
+Math,9,deepseek,True,
+Math,9,qwen,True,
+Math,10,deepseek,True,
+Math,10,qwen,False,Compilation failed
+Math,11,deepseek,True,
+Math,11,qwen,False,Compilation failed
+Math,13,deepseek,True,
+Math,13,qwen,True,
+Math,17,deepseek,True,
+Math,17,qwen,True,
+Math,19,deepseek,True,
+Math,19,qwen,False,Compilation failed
+Math,20,deepseek,True,
+Math,20,qwen,True,
+Math,24,deepseek,True,
+Math,24,qwen,True,
+Math,25,deepseek,True,
+Math,25,qwen,True,
+Math,26,deepseek,True,
+Math,26,qwen,False,Compilation failed
+Math,27,deepseek,True,
+Math,27,qwen,True,
+Math,28,deepseek,True,
+Math,28,qwen,True,
+Math,30,deepseek,True,
+Math,30,qwen,False,Compilation failed
+Math,31,deepseek,True,
+Math,31,qwen,True,
+Math,32,deepseek,True,
+Math,32,qwen,True,
+Math,33,deepseek,True,
+Math,33,qwen,False,Compilation failed
+Math,34,deepseek,True,
+Math,34,qwen,True,
+Math,37,deepseek,True,
+Math,37,qwen,False,Compilation failed
+Math,41,deepseek,True,
+Math,41,qwen,True,
+Math,50,deepseek,False,Compilation failed
+Math,50,qwen,False,Compilation failed
+Math,53,deepseek,True,
+Math,53,qwen,True,
+Math,57,deepseek,True,
+Math,57,qwen,True,
+Math,58,deepseek,True,
+Math,58,qwen,True,
+Time,4,deepseek,False,Compilation failed
+Time,4,qwen,False,Compilation failed
+Time,11,deepseek,False,Compilation failed
+Time,11,qwen,False,Compilation failed
+Time,12,deepseek,False,Compilation failed
+Time,12,qwen,False,Compilation failed
+Time,14,deepseek,False,Compilation failed
+Time,14,qwen,False,Compilation failed
+Time,15,deepseek,False,Compilation failed
+Time,15,qwen,False,Compilation failed
+Time,16,deepseek,False,Compilation failed
+Time,16,qwen,False,Compilation failed
+Time,17,deepseek,False,Compilation failed
+Time,17,qwen,False,Compilation failed
+Time,18,deepseek,False,Compilation failed
+Time,18,qwen,False,Compilation failed
+Time,19,deepseek,False,Compilation failed
+Time,19,qwen,False,Compilation failed
+Time,20,deepseek,False,Compilation failed
+Time,20,qwen,False,Compilation failed
+Time,22,deepseek,False,Compilation failed
+Time,22,qwen,False,Compilation failed
+Time,23,deepseek,False,Compilation failed
+Time,23,qwen,False,Compilation failed
+Time,24,deepseek,False,Compilation failed
+Time,24,qwen,False,Compilation failed
+Time,25,deepseek,False,Compilation failed
+Time,25,qwen,False,Compilation failed
+Time,26,deepseek,False,Compilation failed
+Time,26,qwen,False,Compilation failed
+Jsoup,1,deepseek,False,Compilation failed
+Jsoup,1,qwen,False,Compilation failed
+Jsoup,2,deepseek,False,Compilation failed
+Jsoup,2,qwen,False,Compilation failed
+Jsoup,3,deepseek,False,Compilation failed
+Jsoup,3,qwen,False,Compilation failed
+Jsoup,4,deepseek,False,Compilation failed
+Jsoup,4,qwen,True,
+Jsoup,5,deepseek,False,Compilation failed
+Jsoup,5,qwen,True,
+Jsoup,6,deepseek,False,Compilation failed
+Jsoup,6,qwen,True,
+Jsoup,7,deepseek,False,Compilation failed
+Jsoup,7,qwen,True,
+Jsoup,8,deepseek,False,Compilation failed
+Jsoup,8,qwen,True,
+Jsoup,9,deepseek,True,
+Jsoup,9,qwen,False,Compilation failed
+Jsoup,10,deepseek,False,Compilation failed
+Jsoup,10,qwen,False,Compilation failed
+Jsoup,11,deepseek,False,Compilation failed
+Jsoup,11,qwen,True,
+Jsoup,12,deepseek,False,Compilation failed
+Jsoup,12,qwen,False,Compilation failed
+Jsoup,13,deepseek,True,
+Jsoup,13,qwen,False,Compilation failed
+Jsoup,14,deepseek,True,
+Jsoup,14,qwen,True,
+Jsoup,15,deepseek,False,Compilation failed
+Jsoup,15,qwen,True,

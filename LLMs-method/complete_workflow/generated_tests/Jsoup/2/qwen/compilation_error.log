@@ -1,0 +1,193 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:3: ����: �����org.apache.commons.lang������
+import org.apache.commons.lang.Validate;
+                              ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:4: ����: �����org.jsoup.parser������
+import org.jsoup.parser.Tag;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:5: ����: �����org.jsoup.select������
+import org.jsoup.select.Elements;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:8: ����: �����org.mockito������
+import static org.mockito.Mockito.*;
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:14: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:14: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:16: ����: �Ҳ�������
+        Attributes attributes = new Attributes();
+        ^
+  ����:   �� Attributes
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:16: ����: �Ҳ�������
+        Attributes attributes = new Attributes();
+                                    ^
+  ����:   �� Attributes
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:19: ����: �Ҳ�������
+        Element element = new Element(tag, baseUri, attributes);
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:19: ����: �Ҳ�������
+        Element element = new Element(tag, baseUri, attributes);
+                              ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:32: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:32: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:33: ����: �Ҳ�������
+        Element parent = new Element(tag, "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:33: ����: �Ҳ�������
+        Element parent = new Element(tag, "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:35: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:35: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:35: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:41: ����: �Ҳ�������
+        Elements children = parent.children();
+        ^
+  ����:   �� Elements
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:51: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("a"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:51: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("a"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:51: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("a"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:60: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:60: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:61: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:61: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:72: ����: �Ҳ�������
+        assertTrue(element.childNode(0) instanceof TextNode);
+                                                   ^
+  ����:   �� TextNode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:83: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:83: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:84: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:84: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:96: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+        ^
+  ����:   �� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:96: ����: �Ҳ�������
+        Tag tag = Tag.valueOf("div");
+                  ^
+  ����:   ���� Tag
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:97: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:97: ����: �Ҳ�������
+        Element element = new Element(tag, "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:113: ����: �Ҳ�������
+        Set<String> expectedClasses = new LinkedHashSet<>();
+        ^
+  ����:   �� Set
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\2\qwen\ParserTest.java:113: ����: �Ҳ�������
+        Set<String> expectedClasses = new LinkedHashSet<>();
+                                          ^
+  ����:   �� LinkedHashSet
+  λ��: �� ParserTest
+39 ������
+

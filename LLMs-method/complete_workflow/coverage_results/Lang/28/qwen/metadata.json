@@ -1,0 +1,20 @@
+{
+  "project": "Lang",
+  "bug_id": "28",
+  "model": "qwen",
+  "test_class": "NumericEntityUnescaperTest",
+  "test_file": "NumericEntityUnescaperTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 100.0,
+    "branch_coverage": 100.0,
+    "lines_covered": 20,
+    "lines_valid": 20,
+    "branches_covered": 14,
+    "branches_valid": 14
+  },
+  "timestamp": "2025-12-26T20:41:41.034864"
+}

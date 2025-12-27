@@ -1,0 +1,13 @@
+{
+  "project": "Lang",
+  "bug_id": "13",
+  "model": "deepseek",
+  "test_class": "SerializationUtilsTest",
+  "test_file": "SerializationUtilsTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": false,
+  "coverage_success": false,
+  "coverage_data": null,
+  "timestamp": "2025-12-26T20:29:06.997172"
+}

@@ -1,0 +1,20 @@
+{
+  "project": "Lang",
+  "bug_id": "10",
+  "model": "deepseek",
+  "test_class": "FastDateFormatTest",
+  "test_file": "FastDateFormatTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 91.4,
+    "branch_coverage": 83.46,
+    "lines_covered": 255,
+    "lines_valid": 279,
+    "branches_covered": 106,
+    "branches_valid": 127
+  },
+  "timestamp": "2025-12-26T20:26:42.503328"
+}

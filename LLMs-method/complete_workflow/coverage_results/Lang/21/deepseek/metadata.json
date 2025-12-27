@@ -1,0 +1,20 @@
+{
+  "project": "Lang",
+  "bug_id": "21",
+  "model": "deepseek",
+  "test_class": "DateUtilsTest",
+  "test_file": "DateUtilsTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 95.92,
+    "branch_coverage": 88.99,
+    "lines_covered": 306,
+    "lines_valid": 319,
+    "branches_covered": 194,
+    "branches_valid": 218
+  },
+  "timestamp": "2025-12-26T20:34:20.834925"
+}

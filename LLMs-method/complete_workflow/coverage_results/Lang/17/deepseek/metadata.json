@@ -1,0 +1,20 @@
+{
+  "project": "Lang",
+  "bug_id": "17",
+  "model": "deepseek",
+  "test_class": "EntityArraysTest",
+  "test_file": "EntityArraysTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 93.94,
+    "branch_coverage": 100.0,
+    "lines_covered": 31,
+    "lines_valid": 33,
+    "branches_covered": 14,
+    "branches_valid": 14
+  },
+  "timestamp": "2025-12-26T20:31:57.198594"
+}

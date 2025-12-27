@@ -1,0 +1,15 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\5\deepseek\CleanerTest.java:16: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        outputSettings = new Document.OutputSettings();
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\5\deepseek\CleanerTest.java:17: ����: �޷����� Document.OutputSettings�еķ��� encoderӦ�õ���������;
+        outputSettings.encoder(encoder);
+                      ^
+  ��Ҫ: û�в���
+  �ҵ�: CharsetEncoder
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+2 ������
+

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Math",
+  "bug_id": 53,
+  "model": "DEEPSEEK",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Math\\53\\code\\org\\apache\\commons\\math\\util\\FastMath.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Math\\53\\deepseek\\FastMathTest.java",
+  "metadata": {
+    "test_class_name": "FastMathTest",
+    "package_name": "org.apache.commons.math.util",
+    "num_assertions": 246,
+    "num_test_methods": 9,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

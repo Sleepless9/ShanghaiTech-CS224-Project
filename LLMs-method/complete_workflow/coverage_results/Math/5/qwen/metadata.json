@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "5",
+  "model": "qwen",
+  "test_class": "ComplexTest",
+  "test_file": "ComplexTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 95.58,
+    "branch_coverage": 91.76,
+    "lines_covered": 216,
+    "lines_valid": 226,
+    "branches_covered": 156,
+    "branches_valid": 170
+  },
+  "timestamp": "2025-12-26T20:48:20.145937"
+}

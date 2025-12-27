@@ -1,0 +1,20 @@
+{
+  "project": "Lang",
+  "bug_id": "5",
+  "model": "qwen",
+  "test_class": "LocaleUtilsTest",
+  "test_file": "LocaleUtilsTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 100.0,
+    "branch_coverage": 96.43,
+    "lines_covered": 82,
+    "lines_valid": 82,
+    "branches_covered": 54,
+    "branches_valid": 56
+  },
+  "timestamp": "2025-12-26T20:21:42.964112"
+}

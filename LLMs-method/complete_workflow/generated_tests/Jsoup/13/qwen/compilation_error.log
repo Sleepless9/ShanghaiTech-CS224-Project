@@ -1,0 +1,21 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\13\qwen\ElementTest.java:34: ����: �Ҳ�������
+        Map<Character, String> xhtmlMap = xhtmlMode.getMap();
+        ^
+  ����:   �� Map
+  λ��: �� ElementTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\13\qwen\ElementTest.java:45: ����: �Ҳ�������
+        Map<Character, String> baseMap = baseMode.getMap();
+        ^
+  ����:   �� Map
+  λ��: �� ElementTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\13\qwen\ElementTest.java:53: ����: �Ҳ�������
+        Map<Character, String> fullMap = extendedMode.getMap();
+        ^
+  ����:   �� Map
+  λ��: �� ElementTest
+3 ������
+

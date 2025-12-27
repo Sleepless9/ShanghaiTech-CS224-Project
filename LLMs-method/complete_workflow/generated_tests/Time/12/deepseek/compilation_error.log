@@ -1,0 +1,216 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:6: ����: �Ҳ�������
+import org.joda.time.DateTime;
+                    ^
+  ����:   �� DateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:8: ����: �Ҳ�������
+import org.joda.time.DateTimeZone;
+                    ^
+  ����:   �� DateTimeZone
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:9: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatter;
+                           ^
+  ����:   �� DateTimeFormatter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:10: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatterBuilder;
+                           ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:11: ����: �Ҳ�������
+import org.joda.time.format.DateTimeParser;
+                           ^
+  ����:   �� DateTimeParser
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:12: ����: �Ҳ�������
+import org.joda.time.format.DateTimePrinter;
+                           ^
+  ����:   �� DateTimePrinter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:18: ����: �Ҳ�������
+    private DateTimeFormatterBuilder builder;
+            ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:22: ����: �Ҳ�������
+        builder = new DateTimeFormatterBuilder();
+                      ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:34: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:39: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:39: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:43: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("Date: 2023-05-15");
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:51: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 4, 9);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:52: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:54: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 1, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:54: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 1, 1, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:58: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("2023");
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:71: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:72: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:72: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:77: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("May May");
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:83: ����: �Ҳ�������
+        builder.append((DateTimeFormatter) null);
+                        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:99: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:100: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forOffsetHours(3));
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:100: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forOffsetHours(3));
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:100: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forOffsetHours(3));
+                                                              ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:104: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("14:30 +03:00");
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:107: ����: �Ҳ�������
+        assertEquals("Parsed zone offset should be +03:00", DateTimeZone.forOffsetHours(3), parsed.getZone());
+                                                            ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:112: ����: �Ҳ�������
+        Map<String, DateTimeZone> lookup = new HashMap<>();
+                    ^
+  ����:   �� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:113: ����: �Ҳ�������
+        lookup.put("EST", DateTimeZone.forID("America/New_York"));
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:114: ����: �Ҳ�������
+        lookup.put("PST", DateTimeZone.forID("America/Los_Angeles"));
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:119: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:120: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forID("America/New_York"));
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:120: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forID("America/New_York"));
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:120: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 14, 30, DateTimeZone.forID("America/New_York"));
+                                                              ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:124: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("Zone: EST");
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:125: ����: �Ҳ�������
+        assertEquals("Parsed zone should be America/New_York", DateTimeZone.forID("America/New_York"), parsed.getZone());
+                                                               ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:131: ����: �Ҳ�������
+        DateTimeFormatter formatter1 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:136: ����: �Ҳ�������
+        DateTimeFormatter formatter2 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:139: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\deepseek\LocalDateTimeTest.java:139: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� LocalDateTimeTest
+42 ������
+

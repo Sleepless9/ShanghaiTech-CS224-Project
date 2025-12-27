@@ -1,0 +1,20 @@
+{
+  "project": "Jsoup",
+  "bug_id": "7",
+  "model": "qwen",
+  "test_class": "ParserTest",
+  "test_file": "ParserTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 100.0,
+    "branch_coverage": 96.15,
+    "lines_covered": 80,
+    "lines_valid": 80,
+    "branches_covered": 25,
+    "branches_valid": 26
+  },
+  "timestamp": "2025-12-26T20:15:39.041457"
+}

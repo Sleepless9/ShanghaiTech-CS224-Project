@@ -1,0 +1,12 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\10\qwen\DSCompilerTest.java:17: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_INT_A.length, result.length);
+                                     ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\10\qwen\DSCompilerTest.java:35: ����: EXP_INT_B �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_INT_B.length, result.length);
+                                     ^
+2 ������
+

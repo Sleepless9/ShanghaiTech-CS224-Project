@@ -1,0 +1,13 @@
+{
+  "project": "Jsoup",
+  "bug_id": "15",
+  "model": "qwen",
+  "test_class": "EntitiesTest",
+  "test_file": "EntitiesTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": false,
+  "coverage_success": false,
+  "coverage_data": null,
+  "timestamp": "2025-12-26T20:16:48.317666"
+}

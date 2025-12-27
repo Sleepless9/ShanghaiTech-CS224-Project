@@ -1,0 +1,111 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:5: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:13: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:13: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:18: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:30: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:30: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:60: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:60: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:72: ����: �Ҳ�������
+            builder.appendDecimal(DateTimeFieldType.year(), -1, 0);
+                                  ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:80: ����: �Ҳ�������
+        DateTimeFormatterBuilder result = builder.appendDecimal(DateTimeFieldType.dayOfMonth(), 2, 2);
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:80: ����: �Ҳ�������
+        DateTimeFormatterBuilder result = builder.appendDecimal(DateTimeFieldType.dayOfMonth(), 2, 2);
+                                                                ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:88: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:88: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:91: ����: �Ҳ�������
+        DateTimeParser mockParser = new CharacterLiteral('X');
+        ^
+  ����:   �� DateTimeParser
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:91: ����: �Ҳ�������
+        DateTimeParser mockParser = new CharacterLiteral('X');
+                                        ^
+  ����:   �� CharacterLiteral
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:109: ����: �Ҳ�������
+        DateTimeParser parser = builder.toParser();
+        ^
+  ����:   �� DateTimeParser
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:115: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:115: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:118: ����: �Ҳ�������
+        Map<String, DateTimeZone> lookup = new HashMap<>();
+                    ^
+  ����:   �� DateTimeZone
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:119: ����: �Ҳ�������
+        lookup.put("UTC", DateTimeZone.UTC);
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� MutableDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\15\qwen\MutableDateTimeTest.java:120: ����: �Ҳ�������
+        lookup.put("GMT", DateTimeZone.forOffsetHours(0));
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� MutableDateTimeTest
+21 ������
+

@@ -1,0 +1,60 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:14: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.EXP_INT_A.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:17: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_INT_A[FastMathLiteralArrays.EXP_INT_A.length - 42], 
+                                     ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:17: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_INT_A[FastMathLiteralArrays.EXP_INT_A.length - 42], 
+                                                                     ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:18: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                result[FastMathLiteralArrays.EXP_INT_A.length - 42], 1e-15);
+                                            ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:26: ����: EXP_INT_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.EXP_INT_B.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:31: ����: EXP_INT_B �� FastMathLiteralArrays ���� private ���ʿ���
+                Double.isFinite(result[FastMathLiteralArrays.EXP_INT_B.length - 42]));
+                                                            ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:39: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.EXP_FRAC_A.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:42: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_FRAC_A[FastMathLiteralArrays.EXP_FRAC_A.length - 1], 
+                                     ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:42: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.EXP_FRAC_A[FastMathLiteralArrays.EXP_FRAC_A.length - 1], 
+                                                                      ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:43: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+                result[FastMathLiteralArrays.EXP_FRAC_A.length - 1], 1e-15);
+                                            ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:59: ����: EXP_FRAC_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.EXP_FRAC_B.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:61: ����: �Ҳ�������
+        assertThat("Second element should be small positive", result[1], greaterThan(0.0));
+                                                                         ^
+  ����:   ���� greaterThan(double)
+  λ��: �� CMAESOptimizerTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:63: ����: �Ҳ�������
+                Math.abs(result[result.length - 1]), greaterThan(1e-9));
+                                                     ^
+  ����:   ���� greaterThan(double)
+  λ��: �� CMAESOptimizerTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:71: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.LN_MANT.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:80: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.LN_MANT[1][0], result[1][0], 1e-15);
+                                     ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.java:82: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+                FastMathLiteralArrays.LN_MANT[1][1], result[1][1], 1e-15);
+                                     ^
+ע: Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\19\qwen\CMAESOptimizerTest.javaʹ�û򸲸����ѹ�ʱ�� API��
+ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:deprecation ���±��롣
+16 ������
+

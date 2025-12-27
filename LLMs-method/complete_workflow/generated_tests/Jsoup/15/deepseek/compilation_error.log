@@ -1,0 +1,12 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\15\deepseek\EntitiesTest.java:17: ����: �޷����� OutputSettings�еķ��� encoderӦ�õ���������;
+        outputSettings.encoder(encoder);
+                      ^
+  ��Ҫ: û�в���
+  �ҵ�: CharsetEncoder
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+1 ������
+
