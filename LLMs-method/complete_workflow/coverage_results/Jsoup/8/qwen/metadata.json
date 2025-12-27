@@ -1,0 +1,20 @@
+{
+  "project": "Jsoup",
+  "bug_id": "8",
+  "model": "qwen",
+  "test_class": "HtmlTreeBuilderTest",
+  "test_file": "HtmlTreeBuilderTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 93.53,
+    "branch_coverage": 82.5,
+    "lines_covered": 130,
+    "lines_valid": 139,
+    "branches_covered": 33,
+    "branches_valid": 40
+  },
+  "timestamp": "2025-12-26T20:15:51.759616"
+}

@@ -1,0 +1,13 @@
+{
+  "project": "Lang",
+  "bug_id": "11",
+  "model": "deepseek",
+  "test_class": "RandomStringUtilsTest",
+  "test_file": "RandomStringUtilsTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": false,
+  "coverage_success": false,
+  "coverage_data": null,
+  "timestamp": "2025-12-26T20:28:04.715480"
+}

@@ -1,0 +1,156 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:6: ����: �Ҳ�������
+import org.joda.time.DateTime;
+                    ^
+  ����:   �� DateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:8: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatter;
+                           ^
+  ����:   �� DateTimeFormatter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:9: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatterBuilder;
+                           ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:10: ����: �Ҳ�������
+import org.joda.time.format.DateTimeParser;
+                           ^
+  ����:   �� DateTimeParser
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:11: ����: �Ҳ�������
+import org.joda.time.format.DateTimePrinter;
+                           ^
+  ����:   �� DateTimePrinter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:15: ����: �Ҳ�������
+    private DateTimeFormatterBuilder builder;
+            ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:19: ����: �Ҳ�������
+        builder = new DateTimeFormatterBuilder();
+                      ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:31: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:36: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:36: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:40: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("Date: 2023-05-15");
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:48: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 4, 4)
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:50: ����: �Ҳ�������
+               .appendDecimal(DateTimeFieldType.monthOfYear(), 2, 2)
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:52: ����: �Ҳ�������
+               .appendDecimal(DateTimeFieldType.dayOfMonth(), 2, 2);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:54: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:55: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(1999, 12, 31, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:55: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(1999, 12, 31, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:59: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("2025-01-01");
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:73: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:74: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 8, 4, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:74: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 8, 4, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:79: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("March 15, 2020");
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:87: ����: �Ҳ�������
+        builder.append((DateTimeFormatter) null);
+                        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:98: ����: �Ҳ�������
+        DateTimeFormatter formatter1 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:103: ����: �Ҳ�������
+        DateTimeFormatter formatter2 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:106: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:106: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:125: ����: �Ҳ�������
+        builder.append((DateTimePrinter) new DateTimeFormatterBuilder().appendYear(4, 4).toPrinter());
+                        ^
+  ����:   �� DateTimePrinter
+  λ��: �� MutablePeriodTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\25\deepseek\MutablePeriodTest.java:125: ����: �Ҳ�������
+        builder.append((DateTimePrinter) new DateTimeFormatterBuilder().appendYear(4, 4).toPrinter());
+                                             ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� MutablePeriodTest
+30 ������
+

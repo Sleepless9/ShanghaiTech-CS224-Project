@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Time",
+  "bug_id": 20,
+  "model": "DEEPSEEK",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Time\\20\\code\\org\\joda\\time\\format\\DateTimeFormatterBuilder.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Time\\20\\deepseek\\DateTimeFormatterBuilderTest.java",
+  "metadata": {
+    "test_class_name": "DateTimeFormatterBuilderTest",
+    "package_name": "org.joda.time.format",
+    "num_assertions": 44,
+    "num_test_methods": 7,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

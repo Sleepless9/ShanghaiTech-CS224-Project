@@ -1,0 +1,279 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:4: ����: �����org.jsoup.parser������
+import org.jsoup.parser.Tag;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:14: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:14: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+                          ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:14: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+                                  ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:20: ����: �Ҳ�������
+        Attributes attrs = new Attributes();
+        ^
+  ����:   �� Attributes
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:20: ����: �Ҳ�������
+        Attributes attrs = new Attributes();
+                               ^
+  ����:   �� Attributes
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:23: ����: �Ҳ�������
+        Element p = new Element(Tag.valueOf("p"), "http://example.com", attrs);
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:23: ����: �Ҳ�������
+        Element p = new Element(Tag.valueOf("p"), "http://example.com", attrs);
+                        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:23: ����: �Ҳ�������
+        Element p = new Element(Tag.valueOf("p"), "http://example.com", attrs);
+                                ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:31: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:31: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:31: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:34: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:41: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:41: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:41: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:57: ����: �Ҳ�������
+        Element elem = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:57: ����: �Ҳ�������
+        Element elem = new Element(Tag.valueOf("div"), "http://example.com");
+                           ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:57: ����: �Ҳ�������
+        Element elem = new Element(Tag.valueOf("div"), "http://example.com");
+                                   ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:87: ����: �Ҳ�������
+        Element root = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:87: ����: �Ҳ�������
+        Element root = new Element(Tag.valueOf("div"), "http://example.com");
+                           ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:87: ����: �Ҳ�������
+        Element root = new Element(Tag.valueOf("div"), "http://example.com");
+                                   ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:90: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:90: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:90: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:95: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:95: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:95: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:102: ����: �Ҳ�������
+        Element foundById = root.getElementById("second");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:108: ����: �Ҳ�������
+        Elements paragraphs = root.getElementsByTag("p");
+        ^
+  ����:   �� Elements
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:114: ����: �Ҳ�������
+        Elements firstClass = root.getElementsByClass("first");
+        ^
+  ����:   �� Elements
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:118: ����: �Ҳ�������
+        Elements paragraphClass = root.getElementsByClass("paragraph");
+        ^
+  ����:   �� Elements
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:124: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:124: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:124: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:126: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:126: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:126: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("span"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:130: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:130: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:130: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:134: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:134: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:134: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:160: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:160: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+                          ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:160: ����: �Ҳ�������
+        Element div = new Element(Tag.valueOf("div"), "http://example.com");
+                                  ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:184: ����: �Ҳ�������
+        Element input = new Element(Tag.valueOf("input"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:184: ����: �Ҳ�������
+        Element input = new Element(Tag.valueOf("input"), "http://example.com");
+                            ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:184: ����: �Ҳ�������
+        Element input = new Element(Tag.valueOf("input"), "http://example.com");
+                                    ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:188: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:188: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+                               ^
+  ����:   �� Element
+  λ��: �� TextNodeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\3\deepseek\TextNodeTest.java:188: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+                                       ^
+  ����:   ���� Tag
+  λ��: �� TextNodeTest
+55 ������
+

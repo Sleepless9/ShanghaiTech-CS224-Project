@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "30",
+  "model": "deepseek",
+  "test_class": "PearsonsCorrelationTest",
+  "test_file": "PearsonsCorrelationTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 91.18,
+    "branch_coverage": 100.0,
+    "lines_covered": 31,
+    "lines_valid": 34,
+    "branches_covered": 10,
+    "branches_valid": 10
+  },
+  "timestamp": "2025-12-26T21:18:16.625652"
+}

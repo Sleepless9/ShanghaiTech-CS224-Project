@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Lang",
+  "bug_id": 27,
+  "model": "DEEPSEEK",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Lang\\27\\code\\org\\apache\\commons\\lang3\\StringUtils.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Lang\\27\\deepseek\\StringUtilsTest.java",
+  "metadata": {
+    "test_class_name": "StringUtilsTest",
+    "package_name": "org.apache.commons.lang3",
+    "num_assertions": 278,
+    "num_test_methods": 5,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

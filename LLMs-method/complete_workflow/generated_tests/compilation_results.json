@@ -1,0 +1,10 @@
+[
+  {
+    "project": "Lang",
+    "bug_id": 14,
+    "model": "deepseek",
+    "compilation_success": false,
+    "error": "Failed to checkout project",
+    "compile_output": ""
+  }
+]

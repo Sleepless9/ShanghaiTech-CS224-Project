@@ -1,0 +1,58 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:4: ����: �����org.mockito������
+import static org.mockito.Mockito.*;
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:34: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+        RealPointValuePair result = optimizer.optimize(100, function, GoalType.MINIMIZE, startPoint, lowerBounds, upperBounds);
+                                             ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: int,MultivariateRealFunction,GoalType,double[],double[],double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:56: ����: �Ҳ�������
+                optimizer1.optimize(10, mock(MultivariateRealFunction.class), 
+                                        ^
+  ����:   ���� mock(Class<MultivariateRealFunction>)
+  λ��: �� BaseSecantSolverTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:77: ����: �Ҳ�������
+            optimizer.optimize(10, mock(MultivariateRealFunction.class), 
+                                   ^
+  ����:   ���� mock(Class<MultivariateRealFunction>)
+  λ��: �� BaseSecantSolverTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:91: ����: �Ҳ�������
+            optimizer.optimize(10, mock(MultivariateRealFunction.class), 
+                                   ^
+  ����:   ���� mock(Class<MultivariateRealFunction>)
+  λ��: �� BaseSecantSolverTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:98: ����: �Ҳ�������
+            optimizer.optimize(10, mock(MultivariateRealFunction.class), 
+                                   ^
+  ����:   ���� mock(Class<MultivariateRealFunction>)
+  λ��: �� BaseSecantSolverTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:110: ����: �Ҳ�������
+        MultivariateRealFunction function = mock(MultivariateRealFunction.class);
+                                            ^
+  ����:   ���� mock(Class<MultivariateRealFunction>)
+  λ��: �� BaseSecantSolverTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:117: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+            optimizer.optimize(10, function, GoalType.MINIMIZE, startPoint, lowerBounds, upperBounds);
+                     ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: int,MultivariateRealFunction,GoalType,double[],double[],double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\qwen\BaseSecantSolverTest.java:126: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+            optimizer.optimize(10, function, GoalType.MINIMIZE, startPoint2, lowerBounds2, upperBounds2);
+                     ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: int,MultivariateRealFunction,GoalType,double[],double[],double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+9 ������
+

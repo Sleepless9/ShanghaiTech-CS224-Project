@@ -1,0 +1,131 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:8: ����: �Ҳ�������
+import org.joda.time.LocalDateTime;
+                    ^
+  ����:   �� LocalDateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:14: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:14: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:22: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:29: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:29: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:30: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.hourOfDay(), 1, 2);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:31: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.minuteOfHour(), 2, 2);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:36: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:40: ����: �Ҳ�������
+        LocalDateTime dt = new LocalDateTime(2023, 6, 15, 9, 30);
+        ^
+  ����:   �� LocalDateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:40: ����: �Ҳ�������
+        LocalDateTime dt = new LocalDateTime(2023, 6, 15, 9, 30);
+                               ^
+  ����:   �� LocalDateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:47: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:47: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:56: ����: �Ҳ�������
+        builder.appendText(DateTimeFieldType.dayOfWeek());
+                           ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:60: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:66: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:66: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:72: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:72: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:73: ����: �Ҳ�������
+        Map<String, DateTimeZone> lookup = new HashMap<>();
+                    ^
+  ����:   �� DateTimeZone
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:74: ����: �Ҳ�������
+        lookup.put("UTC", DateTimeZone.UTC);
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:81: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:85: ����: �Ҳ�������
+        DateTimePrinter printer = builder.toPrinter();
+        ^
+  ����:   �� DateTimePrinter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\19\qwen\DateTimeZoneTest.java:86: ����: �Ҳ�������
+        DateTimeParser parser = builder.toParser();
+        ^
+  ����:   �� DateTimeParser
+  λ��: �� DateTimeZoneTest
+25 ������
+

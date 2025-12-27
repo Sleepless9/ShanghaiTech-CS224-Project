@@ -1,0 +1,286 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:11: ����: �Ҳ�������
+        assertTrue(StringUtils.isEmpty(null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:12: ����: �Ҳ�������
+        assertTrue(StringUtils.isEmpty(""));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:13: ����: �Ҳ�������
+        assertFalse(StringUtils.isEmpty(" "));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:14: ����: �Ҳ�������
+        assertFalse(StringUtils.isEmpty("abc"));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:16: ����: �Ҳ�������
+        assertFalse(StringUtils.isNotEmpty(null));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:17: ����: �Ҳ�������
+        assertFalse(StringUtils.isNotEmpty(""));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:18: ����: �Ҳ�������
+        assertTrue(StringUtils.isNotEmpty(" "));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:19: ����: �Ҳ�������
+        assertTrue(StringUtils.isNotEmpty("abc"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:24: ����: �Ҳ�������
+        assertTrue(StringUtils.isBlank(null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:25: ����: �Ҳ�������
+        assertTrue(StringUtils.isBlank(""));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:26: ����: �Ҳ�������
+        assertTrue(StringUtils.isBlank(" "));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:27: ����: �Ҳ�������
+        assertTrue(StringUtils.isBlank("  \t\n\r  "));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:28: ����: �Ҳ�������
+        assertFalse(StringUtils.isBlank("abc"));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:29: ����: �Ҳ�������
+        assertFalse(StringUtils.isBlank("  abc  "));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:31: ����: �Ҳ�������
+        assertFalse(StringUtils.isNotBlank(null));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:32: ����: �Ҳ�������
+        assertFalse(StringUtils.isNotBlank(""));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:33: ����: �Ҳ�������
+        assertFalse(StringUtils.isNotBlank(" "));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:34: ����: �Ҳ�������
+        assertTrue(StringUtils.isNotBlank("abc"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:35: ����: �Ҳ�������
+        assertTrue(StringUtils.isNotBlank("  abc  "));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:40: ����: �Ҳ�������
+        assertNull(StringUtils.trim(null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:41: ����: �Ҳ�������
+        assertEquals("", StringUtils.trim(""));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:42: ����: �Ҳ�������
+        assertEquals("", StringUtils.trim("   "));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:43: ����: �Ҳ�������
+        assertEquals("abc", StringUtils.trim("  abc  "));
+                            ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:44: ����: �Ҳ�������
+        assertEquals("abc", StringUtils.trim("\t\nabc\r "));
+                            ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:46: ����: �Ҳ�������
+        assertNull(StringUtils.trimToNull(null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:47: ����: �Ҳ�������
+        assertNull(StringUtils.trimToNull(""));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:48: ����: �Ҳ�������
+        assertNull(StringUtils.trimToNull("   "));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:49: ����: �Ҳ�������
+        assertEquals("abc", StringUtils.trimToNull("  abc  "));
+                            ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:51: ����: �Ҳ�������
+        assertEquals("", StringUtils.trimToEmpty(null));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:52: ����: �Ҳ�������
+        assertEquals("", StringUtils.trimToEmpty(""));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:53: ����: �Ҳ�������
+        assertEquals("", StringUtils.trimToEmpty("   "));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:54: ����: �Ҳ�������
+        assertEquals("abc", StringUtils.trimToEmpty("  abc  "));
+                            ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:59: ����: �Ҳ�������
+        assertTrue(StringUtils.equals(null, null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:60: ����: �Ҳ�������
+        assertFalse(StringUtils.equals(null, "abc"));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:61: ����: �Ҳ�������
+        assertFalse(StringUtils.equals("abc", null));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:62: ����: �Ҳ�������
+        assertTrue(StringUtils.equals("abc", "abc"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:63: ����: �Ҳ�������
+        assertFalse(StringUtils.equals("abc", "ABC"));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:65: ����: �Ҳ�������
+        assertTrue(StringUtils.equalsIgnoreCase(null, null));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:66: ����: �Ҳ�������
+        assertFalse(StringUtils.equalsIgnoreCase(null, "abc"));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:67: ����: �Ҳ�������
+        assertFalse(StringUtils.equalsIgnoreCase("abc", null));
+                    ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:68: ����: �Ҳ�������
+        assertTrue(StringUtils.equalsIgnoreCase("abc", "ABC"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:69: ����: �Ҳ�������
+        assertTrue(StringUtils.equalsIgnoreCase("aBc", "AbC"));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:74: ����: �Ҳ�������
+        assertNull(StringUtils.substring(null, 0));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:75: ����: �Ҳ�������
+        assertEquals("", StringUtils.substring("", 0));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:76: ����: �Ҳ�������
+        assertEquals("abc", StringUtils.substring("abc", 0));
+                            ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:77: ����: �Ҳ�������
+        assertEquals("bc", StringUtils.substring("abc", 1));
+                           ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:78: ����: �Ҳ�������
+        assertEquals("c", StringUtils.substring("abc", 2));
+                          ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:79: ����: �Ҳ�������
+        assertEquals("", StringUtils.substring("abc", 4));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:80: ����: �Ҳ�������
+        assertEquals("bc", StringUtils.substring("abc", -2));
+                           ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:82: ����: �Ҳ�������
+        assertNull(StringUtils.substring(null, 0, 2));
+                   ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:83: ����: �Ҳ�������
+        assertEquals("", StringUtils.substring("", 0, 2));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:84: ����: �Ҳ�������
+        assertEquals("ab", StringUtils.substring("abc", 0, 2));
+                           ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:85: ����: �Ҳ�������
+        assertEquals("", StringUtils.substring("abc", 2, 0));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:86: ����: �Ҳ�������
+        assertEquals("c", StringUtils.substring("abc", 2, 4));
+                          ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:87: ����: �Ҳ�������
+        assertEquals("", StringUtils.substring("abc", 4, 6));
+                         ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Lang\14\qwen\StringUtilsTest.java:88: ����: �Ҳ�������
+        assertEquals("b", StringUtils.substring("abc", -2, -1));
+                          ^
+  ����:   ���� StringUtils
+  λ��: �� StringUtilsTest
+56 ������
+

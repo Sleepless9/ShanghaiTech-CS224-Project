@@ -1,0 +1,206 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:10: ����: �Ҳ�������
+    private Element divElement;
+            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:11: ����: �Ҳ�������
+    private Element parentElement;
+            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:12: ����: �Ҳ�������
+    private Element childElement1;
+            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:13: ����: �Ҳ�������
+    private Element childElement2;
+            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:17: ����: �Ҳ�������
+        divElement = new Element(Tag.valueOf("div"), "http://example.com");
+                         ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:17: ����: �Ҳ�������
+        divElement = new Element(Tag.valueOf("div"), "http://example.com");
+                                 ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:18: ����: �Ҳ�������
+        parentElement = new Element(Tag.valueOf("div"), "http://example.com");
+                            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:18: ����: �Ҳ�������
+        parentElement = new Element(Tag.valueOf("div"), "http://example.com");
+                                    ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:19: ����: �Ҳ�������
+        childElement1 = new Element(Tag.valueOf("span"), "http://example.com");
+                            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:19: ����: �Ҳ�������
+        childElement1 = new Element(Tag.valueOf("span"), "http://example.com");
+                                    ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:20: ����: �Ҳ�������
+        childElement2 = new Element(Tag.valueOf("p"), "http://example.com");
+                            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:20: ����: �Ҳ�������
+        childElement2 = new Element(Tag.valueOf("p"), "http://example.com");
+                                    ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:25: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:25: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                              ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:25: ����: �Ҳ�������
+        Element element = new Element(Tag.valueOf("div"), "http://example.com");
+                                      ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:32: ����: �Ҳ�������
+        Element spanElement = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:32: ����: �Ҳ�������
+        Element spanElement = new Element(Tag.valueOf("span"), "http://example.com");
+                                  ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:32: ����: �Ҳ�������
+        Element spanElement = new Element(Tag.valueOf("span"), "http://example.com");
+                                          ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:59: ����: �Ҳ�������
+        Element firstChild = parentElement.children().first();
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:108: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:108: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+                               ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:108: ����: �Ҳ�������
+        Element textarea = new Element(Tag.valueOf("textarea"), "http://example.com");
+                                       ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:118: ����: �Ҳ�������
+        new Element(null, "http://example.com");
+            ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:123: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:123: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:123: ����: �Ҳ�������
+        Element parent = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:124: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:124: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:124: ����: �Ҳ�������
+        Element child1 = new Element(Tag.valueOf("p"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:125: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:125: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:125: ����: �Ҳ�������
+        Element child2 = new Element(Tag.valueOf("span"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:126: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:126: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+                             ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:126: ����: �Ҳ�������
+        Element child3 = new Element(Tag.valueOf("div"), "http://example.com");
+                                     ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:146: ����: �Ҳ�������
+        Element container = new Element(Tag.valueOf("div"), "http://example.com");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:146: ����: �Ҳ�������
+        Element container = new Element(Tag.valueOf("div"), "http://example.com");
+                                ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:146: ����: �Ҳ�������
+        Element container = new Element(Tag.valueOf("div"), "http://example.com");
+                                        ^
+  ����:   ���� Tag
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:148: ����: �Ҳ�������
+        Element appended = container.appendElement("p");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\1\deepseek\CharacterReaderTest.java:154: ����: �Ҳ�������
+        Element prepended = container.prependElement("h1");
+        ^
+  ����:   �� Element
+  λ��: �� CharacterReaderTest
+40 ������
+

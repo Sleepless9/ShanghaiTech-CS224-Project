@@ -1,0 +1,32 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:14: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match", result.length, is(FastMathLiteralArrays.EXP_INT_A.length));
+                                                                                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:17: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                result[result.length - 100] == FastMathLiteralArrays.EXP_INT_A[result.length - 100]);
+                                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:19: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+                result != FastMathLiteralArrays.EXP_INT_A);
+                                               ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:34: ����: EXP_INT_B �� FastMathLiteralArrays ���� private ���ʿ���
+                result != FastMathLiteralArrays.EXP_INT_B);
+                                               ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:49: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+                result != FastMathLiteralArrays.EXP_FRAC_A);
+                                               ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:57: ����: EXP_FRAC_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match", result.length, is(FastMathLiteralArrays.EXP_FRAC_B.length));
+                                                                                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:62: ����: EXP_FRAC_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertTrue("Array should be a proper clone", result != FastMathLiteralArrays.EXP_FRAC_B);
+                                                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.java:76: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+        assertTrue("Returned array should be a clone", result != FastMathLiteralArrays.LN_MANT);
+                                                                                      ^
+ע: Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\30\qwen\PearsonsCorrelationTest.javaʹ�û򸲸����ѹ�ʱ�� API��
+ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:deprecation ���±��롣
+8 ������
+

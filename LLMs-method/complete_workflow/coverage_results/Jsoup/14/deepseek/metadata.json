@@ -1,0 +1,20 @@
+{
+  "project": "Jsoup",
+  "bug_id": "14",
+  "model": "deepseek",
+  "test_class": "TokenQueueTest",
+  "test_file": "TokenQueueTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 54.0,
+    "branch_coverage": 49.3,
+    "lines_covered": 709,
+    "lines_valid": 1313,
+    "branches_covered": 212,
+    "branches_valid": 430
+  },
+  "timestamp": "2025-12-26T20:16:26.997033"
+}

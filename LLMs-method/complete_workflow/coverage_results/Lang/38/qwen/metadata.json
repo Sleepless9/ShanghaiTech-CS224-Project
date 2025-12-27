@@ -1,0 +1,13 @@
+{
+  "project": "Lang",
+  "bug_id": "38",
+  "model": "qwen",
+  "test_class": "StringUtilsTest",
+  "test_file": "StringUtilsTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": false,
+  "coverage_success": false,
+  "coverage_data": null,
+  "timestamp": "2025-12-26T20:44:27.754496"
+}

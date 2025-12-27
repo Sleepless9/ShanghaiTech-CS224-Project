@@ -1,0 +1,15 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\10\qwen\ElementTest.java:12: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        Document.OutputSettings outputSettings = new Document.OutputSettings();
+                                                 ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\10\qwen\ElementTest.java:29: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        Document.OutputSettings outputSettings = new Document.OutputSettings();
+                                                 ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\10\qwen\ElementTest.java:88: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        Document.OutputSettings outputSettings = new Document.OutputSettings();
+                                                 ^
+3 ������
+

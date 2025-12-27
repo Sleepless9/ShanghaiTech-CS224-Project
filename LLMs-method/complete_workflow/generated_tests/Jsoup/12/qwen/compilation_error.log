@@ -1,0 +1,69 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:13: ����: �Ҳ�������
+        EscapeMode xhtmlMode = EscapeMode.xhtml;
+        ^
+  ����:   �� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:13: ����: �Ҳ�������
+        EscapeMode xhtmlMode = EscapeMode.xhtml;
+                               ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:14: ����: �Ҳ�������
+        EscapeMode baseMode = EscapeMode.base;
+        ^
+  ����:   �� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:14: ����: �Ҳ�������
+        EscapeMode baseMode = EscapeMode.base;
+                              ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:15: ����: �Ҳ�������
+        EscapeMode extendedMode = EscapeMode.extended;
+        ^
+  ����:   �� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:15: ����: �Ҳ�������
+        EscapeMode extendedMode = EscapeMode.extended;
+                                  ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:41: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        Document.OutputSettings settings = new Document.OutputSettings();
+                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:42: ����: �Ҳ�������
+        settings.escapeMode(EscapeMode.xhtml);
+                            ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:43: ����: �޷����� Document.OutputSettings�еķ��� encoderӦ�õ���������;
+        settings.encoder(encoder);
+                ^
+  ��Ҫ: û�в���
+  �ҵ�: CharsetEncoder
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:54: ����: �Ҳ�������
+        settings.escapeMode(EscapeMode.base);
+                            ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:100: ����: ��Ҫ����Document.OutputSettings�ķ��ʵ��
+        Document.OutputSettings settings = new Document.OutputSettings();
+                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:101: ����: �Ҳ�������
+        settings.escapeMode(EscapeMode.xhtml);
+                            ^
+  ����:   ���� EscapeMode
+  λ��: �� ParserTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\12\qwen\ParserTest.java:102: ����: �޷����� Document.OutputSettings�еķ��� encoderӦ�õ���������;
+        settings.encoder(encoder);
+                ^
+  ��Ҫ: û�в���
+  �ҵ�: CharsetEncoder
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+13 ������
+

@@ -1,0 +1,13 @@
+{
+  "project": "Jsoup",
+  "bug_id": "5",
+  "model": "qwen",
+  "test_class": "CleanerTest",
+  "test_file": "CleanerTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": false,
+  "coverage_success": false,
+  "coverage_data": null,
+  "timestamp": "2025-12-26T20:15:17.198369"
+}

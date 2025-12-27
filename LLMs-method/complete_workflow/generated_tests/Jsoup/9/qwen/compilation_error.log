@@ -1,0 +1,13 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Jsoup\9\qwen\AttributesTest.java:20: ����: ����escape(String,CharsetEncoder,CharsetEncoder,EscapeMode), �Ҳ������ʵķ���
+        result = Entities.escape("'\"", encoder, encoder, Entities.EscapeMode.xhtml);
+                         ^
+    ���� Entities.escape(String,Document.OutputSettings)������
+      (ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ)
+    ���� Entities.escape(String,CharsetEncoder,EscapeMode)������
+      (ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ)
+1 ������
+

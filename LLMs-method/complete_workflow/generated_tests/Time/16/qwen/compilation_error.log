@@ -1,0 +1,468 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:4: ����: �����org.mockito������
+import static org.mockito.Mockito.*;
+                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:9: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:10: ����: �Ҳ�������
+import org.joda.time.LocalDateTime;
+                    ^
+  ����:   �� LocalDateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:11: ����: �Ҳ�������
+import org.joda.time.ReadablePartial;
+                    ^
+  ����:   �� ReadablePartial
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:12: ����: �����org.joda.time.chrono������
+import org.joda.time.chrono.ISOChronology;
+                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:13: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.CharacterLiteral;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:14: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.Composite;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:15: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.FixedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:16: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.StringLiteral;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:17: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TextField;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:18: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TwoDigitYear;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:19: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.UnpaddedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:20: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.PaddedNumber;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:21: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.Fraction;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:22: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneOffset;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:23: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneName;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:24: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.TimeZoneId;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:25: ����: �����org.joda.time.format.DateTimeFormatterBuilder������
+import org.joda.time.format.DateTimeFormatterBuilder.MatchingParser;
+                                                    ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:26: ����: �Ҳ�������
+import org.joda.time.DateTimeField;
+                    ^
+  ����:   �� DateTimeField
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:27: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:28: ����: �Ҳ�������
+import org.joda.time.DateTimeZone;
+                    ^
+  ����:   �� DateTimeZone
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:29: ����: �Ҳ�������
+import org.joda.time.LocalDate;
+                    ^
+  ����:   �� LocalDate
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:30: ����: �Ҳ�������
+import org.joda.time.LocalDateTime;
+                    ^
+  ����:   �� LocalDateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:31: ����: �Ҳ�������
+import org.joda.time.LocalTime;
+                    ^
+  ����:   �� LocalTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:32: ����: �Ҳ�������
+import org.joda.time.ReadablePartial;
+                    ^
+  ����:   �� ReadablePartial
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:33: ����: �����org.joda.time.chrono������
+import org.joda.time.chrono.ISOChronology;
+                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:34: ����: �����org.joda.time.field������
+import org.joda.time.field.SkipUndoDateTimeField;
+                          ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:35: ����: �����org.joda.time.format.DateTimeFormat������
+import org.joda.time.format.DateTimeFormat.FieldFormatter;
+                                          ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:36: ����: �����org.joda.time.tz������
+import org.joda.time.tz.CachedDateTimeZone;
+                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:284: ����: �Ҳ�������
+    private static class MockDateTimePrinter implements DateTimePrinter {
+                                                        ^
+  ����:   �� DateTimePrinter
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:291: ����: �Ҳ�������
+        public void printTo(StringBuffer buf, long instant, Chronology chrono,
+                                                            ^
+  ����:   �� Chronology
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:292: ����: �Ҳ�������
+                int displayOffset, DateTimeZone displayZone, Locale locale) {
+                                   ^
+  ����:   �� DateTimeZone
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:292: ����: �Ҳ�������
+                int displayOffset, DateTimeZone displayZone, Locale locale) {
+                                                             ^
+  ����:   �� Locale
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:297: ����: �Ҳ�������
+        public void printTo(Writer out, long instant, Chronology chrono,
+                            ^
+  ����:   �� Writer
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:297: ����: �Ҳ�������
+        public void printTo(Writer out, long instant, Chronology chrono,
+                                                      ^
+  ����:   �� Chronology
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:298: ����: �Ҳ�������
+                int displayOffset, DateTimeZone displayZone, Locale locale) throws IOException {
+                                   ^
+  ����:   �� DateTimeZone
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:298: ����: �Ҳ�������
+                int displayOffset, DateTimeZone displayZone, Locale locale) throws IOException {
+                                                             ^
+  ����:   �� Locale
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:298: ����: �Ҳ�������
+                int displayOffset, DateTimeZone displayZone, Locale locale) throws IOException {
+                                                                                   ^
+  ����:   �� IOException
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:303: ����: �Ҳ�������
+        public void printTo(StringBuffer buf, ReadablePartial partial, Locale locale) {
+                                              ^
+  ����:   �� ReadablePartial
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:303: ����: �Ҳ�������
+        public void printTo(StringBuffer buf, ReadablePartial partial, Locale locale) {
+                                                                       ^
+  ����:   �� Locale
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:308: ����: �Ҳ�������
+        public void printTo(Writer out, ReadablePartial partial, Locale locale) throws IOException {
+                            ^
+  ����:   �� Writer
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:308: ����: �Ҳ�������
+        public void printTo(Writer out, ReadablePartial partial, Locale locale) throws IOException {
+                                        ^
+  ����:   �� ReadablePartial
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:308: ����: �Ҳ�������
+        public void printTo(Writer out, ReadablePartial partial, Locale locale) throws IOException {
+                                                                 ^
+  ����:   �� Locale
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:308: ����: �Ҳ�������
+        public void printTo(Writer out, ReadablePartial partial, Locale locale) throws IOException {
+                                                                                       ^
+  ����:   �� IOException
+  λ��: �� MockDateTimePrinter
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:313: ����: �Ҳ�������
+    private static class MockDateTimeParser implements DateTimeParser {
+                                                       ^
+  ����:   �� DateTimeParser
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:320: ����: �Ҳ�������
+        public int parseInto(DateTimeParserBucket bucket, String text, int position) {
+                             ^
+  ����:   �� DateTimeParserBucket
+  λ��: �� MockDateTimeParser
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:43: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:43: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:56: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:56: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:61: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:62: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:62: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+                               ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:65: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof CharacterLiteral);
+                                                     ^
+  ����:   �� CharacterLiteral
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:66: ����: �Ҳ�������
+        assertTrue(composite.iParsers[0] instanceof CharacterLiteral);
+                                                    ^
+  ����:   �� CharacterLiteral
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:72: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:73: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:76: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof StringLiteral);
+                                                     ^
+  ����:   �� StringLiteral
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:77: ����: �Ҳ�������
+        assertTrue(composite.iParsers[0] instanceof StringLiteral);
+                                                    ^
+  ����:   �� StringLiteral
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:83: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:84: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:91: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:91: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:94: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 1, 4);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:96: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:97: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:97: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+                               ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:99: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof UnpaddedNumber);
+                                                     ^
+  ����:   �� UnpaddedNumber
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:103: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 2, 4);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:105: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:107: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof PaddedNumber);
+                                                     ^
+  ����:   �� PaddedNumber
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:111: ����: �Ҳ�������
+        builder.appendFixedDecimal(DateTimeFieldType.year(), 4);
+                                   ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:113: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:115: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof FixedNumber);
+                                                     ^
+  ����:   �� FixedNumber
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:120: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:120: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:126: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:126: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:127: ����: �Ҳ�������
+        builder.appendFixedDecimal(DateTimeFieldType.year(), 0);
+                                   ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:132: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:132: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:135: ����: �Ҳ�������
+        builder.appendText(DateTimeFieldType.monthOfYear());
+                           ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:137: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:138: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:138: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+                               ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:140: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof TextField);
+                                                     ^
+  ����:   �� TextField
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:144: ����: �Ҳ�������
+        builder.appendShortText(DateTimeFieldType.monthOfYear());
+                                ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:146: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:148: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof TextField);
+                                                     ^
+  ����:   �� TextField
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:153: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:153: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:154: ����: �Ҳ�������
+        builder.appendFraction(DateTimeFieldType.secondOfDay(), 1, 3);
+                               ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:157: ����: �Ҳ�������
+        assertTrue(formatter instanceof Composite);
+                                        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:158: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+        ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:158: ����: �Ҳ�������
+        Composite composite = (Composite) formatter;
+                               ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:160: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof Fraction);
+                                                     ^
+  ����:   �� Fraction
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:166: ����: �Ҳ�������
+        composite = (Composite) formatter;
+                     ^
+  ����:   �� Composite
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:167: ����: �Ҳ�������
+        assertTrue(composite.iPrinters[0] instanceof Fraction);
+                                                     ^
+  ����:   �� Fraction
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:172: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\16\qwen\DateTimeFormatterTest.java:172: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeFormatterTest
+100 ������
+

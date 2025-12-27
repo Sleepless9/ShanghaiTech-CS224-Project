@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "20",
+  "model": "deepseek",
+  "test_class": "CMAESOptimizerTest",
+  "test_file": "CMAESOptimizerTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 87.8,
+    "branch_coverage": 78.36,
+    "lines_covered": 439,
+    "lines_valid": 500,
+    "branches_covered": 210,
+    "branches_valid": 268
+  },
+  "timestamp": "2025-12-26T21:04:55.338823"
+}

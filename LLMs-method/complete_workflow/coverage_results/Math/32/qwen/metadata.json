@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "32",
+  "model": "qwen",
+  "test_class": "PolygonsSetTest",
+  "test_file": "PolygonsSetTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 70.41,
+    "branch_coverage": 61.25,
+    "lines_covered": 119,
+    "lines_valid": 169,
+    "branches_covered": 49,
+    "branches_valid": 80
+  },
+  "timestamp": "2025-12-26T21:21:02.053965"
+}

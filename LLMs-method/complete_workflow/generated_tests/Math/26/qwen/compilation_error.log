@@ -1,0 +1,21 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\26\qwen\FractionTest.java:18: ����: δ������쳣����IllegalAccessException; ���������в���������Ա��׳�
+                     FastMathLiteralArrays.class.getDeclaredFields()[0].get(null), result);
+                                                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\26\qwen\FractionTest.java:34: ����: δ������쳣����IllegalAccessException; ���������в���������Ա��׳�
+                     FastMathLiteralArrays.class.getDeclaredFields()[1].get(null), result);
+                                                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\26\qwen\FractionTest.java:60: ����: δ������쳣����IllegalAccessException; ���������в���������Ա��׳�
+                     FastMathLiteralArrays.class.getDeclaredFields()[2].get(null), result);
+                                                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\26\qwen\FractionTest.java:83: ����: δ������쳣����IllegalAccessException; ���������в���������Ա��׳�
+                     FastMathLiteralArrays.class.getDeclaredFields()[3].get(null), result);
+                                                                           ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\26\qwen\FractionTest.java:114: ����: δ������쳣����IllegalAccessException; ���������в���������Ա��׳�
+                     FastMathLiteralArrays.class.getDeclaredFields()[4].get(null), result);
+                                                                           ^
+5 ������
+

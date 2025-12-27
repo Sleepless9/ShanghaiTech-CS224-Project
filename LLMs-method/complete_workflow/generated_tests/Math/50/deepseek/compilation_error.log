@@ -1,0 +1,58 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:47: ����: �Ҳ�������
+        optimizer.setMaxEvaluations(1000);
+                 ^
+  ����:   ���� setMaxEvaluations(int)
+  λ��: ����ΪBOBYQAOptimizer�ı��� optimizer
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:49: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+        RealPointValuePair result = optimizer.optimize(sphere, GoalType.MINIMIZE, startPoint);
+                                             ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: MultivariateRealFunction,GoalType,double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:66: ����: �Ҳ�������
+        optimizer.setMaxEvaluations(100);
+                 ^
+  ����:   ���� setMaxEvaluations(int)
+  λ��: ����ΪBOBYQAOptimizer�ı��� optimizer
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:78: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+        optimizer.optimize(sphere, GoalType.MINIMIZE, startPoint);
+                 ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: MultivariateRealFunction,GoalType,double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:94: ����: �Ҳ�������
+        optimizer.setMaxEvaluations(2000);
+                 ^
+  ����:   ���� setMaxEvaluations(int)
+  λ��: ����ΪBOBYQAOptimizer�ı��� optimizer
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:96: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+        RealPointValuePair result = optimizer.optimize(rosenbrock, GoalType.MINIMIZE, startPoint);
+                                             ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: MultivariateRealFunction,GoalType,double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:122: ����: �Ҳ�������
+        optimizer.setMaxEvaluations(100);
+                 ^
+  ����:   ���� setMaxEvaluations(int)
+  λ��: ����ΪBOBYQAOptimizer�ı��� optimizer
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\50\deepseek\BaseSecantSolverTest.java:124: ����: �޷����� BaseAbstractScalarOptimizer<FUNC>�еķ��� optimizeӦ�õ���������;
+        optimizer.optimize(sphere, GoalType.MINIMIZE, startPoint);
+                 ^
+  ��Ҫ: int,MultivariateRealFunction,GoalType,double[]
+  �ҵ�: MultivariateRealFunction,GoalType,double[]
+  ԭ��: ʵ�ʲ����б�����ʽ�����б����Ȳ�ͬ
+  ����, FUNC�����ͱ���:
+    FUNC��չ������ BaseAbstractScalarOptimizer��������MultivariateRealFunction
+8 ������
+

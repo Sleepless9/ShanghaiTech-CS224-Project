@@ -1,0 +1,114 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:8: ����: �Ҳ�������
+import org.joda.time.LocalDateTime;
+                    ^
+  ����:   �� LocalDateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:14: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:14: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:44: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:44: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:47: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 4, 4);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:53: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.dayOfMonth(), 3, 5);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:67: ����: �Ҳ�������
+            builder.appendDecimal(DateTimeFieldType.hourOfDay(), -1, 2);
+                                  ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:76: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:76: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:79: ����: �Ҳ�������
+        builder.appendText(DateTimeFieldType.monthOfYear())
+                           ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:88: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:102: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:102: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:105: ����: �Ҳ�������
+        DateTimeParser parser = new DateTimeFormatterBuilder()
+        ^
+  ����:   �� DateTimeParser
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:105: ����: �Ҳ�������
+        DateTimeParser parser = new DateTimeFormatterBuilder()
+                                    ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:114: ����: �����DateTimeFormatterBuilder������
+        assertTrue(formatter instanceof DateTimeFormatterBuilder.Composite);
+                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:124: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+        ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:124: ����: �Ҳ�������
+        DateTimeFormatterBuilder builder = new DateTimeFormatterBuilder();
+                                               ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:133: ����: �Ҳ�������
+        Map<String, DateTimeZone> lookup = new HashMap<>();
+                    ^
+  ����:   �� DateTimeZone
+  λ��: �� LocalDateTimeTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\12\qwen\LocalDateTimeTest.java:134: ����: �Ҳ�������
+        lookup.put("UTC", DateTimeZone.UTC);
+                          ^
+  ����:   ���� DateTimeZone
+  λ��: �� LocalDateTimeTest
+22 ������
+

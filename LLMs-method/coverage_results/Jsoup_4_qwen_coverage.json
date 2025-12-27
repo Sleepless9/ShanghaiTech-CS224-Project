@@ -1,0 +1,22 @@
+{
+  "project": "Jsoup",
+  "bug_id": "4",
+  "model": "qwen",
+  "test_class": "ElementTest",
+  "test_file": "/mnt/z/\u7814\u4e00\u8bfe\u7a0b/\u7a0b\u5e8f\u5206\u6790/CS224_copilot/ShanghaiTech-CS224-Project/llm_experiment_results_v2/complete_workflow/generated_tests/Jsoup/4/qwen/ElementTest.java",
+  "test_methods": [
+    "testEscapeBaseMode",
+    "testEscapeExtendedMode",
+    "testUnescapeBasicEntities",
+    "testUnescapeNumericEntities",
+    "testUnescapeEdgeCases"
+  ],
+  "method_coverage": {
+    "testEscapeBaseMode": null,
+    "testEscapeExtendedMode": null,
+    "testUnescapeBasicEntities": null,
+    "testUnescapeNumericEntities": null,
+    "testUnescapeEdgeCases": null
+  },
+  "status": "success"
+}

@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "11",
+  "model": "deepseek",
+  "test_class": "MultivariateNormalDistributionTest",
+  "test_file": "MultivariateNormalDistributionTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 83.05,
+    "branch_coverage": 78.57,
+    "lines_covered": 49,
+    "lines_valid": 59,
+    "branches_covered": 22,
+    "branches_valid": 28
+  },
+  "timestamp": "2025-12-26T20:56:02.960586"
+}

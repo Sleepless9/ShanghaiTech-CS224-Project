@@ -1,0 +1,156 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:6: ����: �Ҳ�������
+import org.joda.time.DateTime;
+                    ^
+  ����:   �� DateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:8: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatter;
+                           ^
+  ����:   �� DateTimeFormatter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:9: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatterBuilder;
+                           ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:10: ����: �Ҳ�������
+import org.joda.time.format.DateTimeParser;
+                           ^
+  ����:   �� DateTimeParser
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:11: ����: �Ҳ�������
+import org.joda.time.format.DateTimePrinter;
+                           ^
+  ����:   �� DateTimePrinter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:15: ����: �Ҳ�������
+    private DateTimeFormatterBuilder builder;
+            ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:19: ����: �Ҳ�������
+        builder = new DateTimeFormatterBuilder();
+                      ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:31: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:36: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 10, 5, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:36: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 10, 5, 0, 0);
+                            ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:40: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("Date: 2023-10-05");
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:48: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.year(), 4, 4)
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:50: ����: �Ҳ�������
+               .appendDecimal(DateTimeFieldType.monthOfYear(), 2, 2);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:52: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:53: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 5, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:53: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 5, 1, 0, 0);
+                            ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:57: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("2023-05");
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:68: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:69: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 10, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:69: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 10, 1, 0, 0);
+                            ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:74: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("October 2023");
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:81: ����: �Ҳ�������
+        builder.append((DateTimeFormatter) null);
+                        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:98: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:100: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 5, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:100: ����: �Ҳ�������
+        DateTime date = new DateTime(2023, 5, 1, 0, 0);
+                            ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:108: ����: �Ҳ�������
+                   new DateTimeFormatterBuilder()
+                       ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:114: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:115: ����: �Ҳ�������
+        DateTime date1 = formatter.parseDateTime("2023-05");
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\24\deepseek\GJChronologyTest.java:119: ����: �Ҳ�������
+        DateTime date2 = formatter.parseDateTime("2023");
+        ^
+  ����:   �� DateTime
+  λ��: �� GJChronologyTest
+30 ������
+

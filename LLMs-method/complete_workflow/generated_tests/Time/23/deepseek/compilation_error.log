@@ -1,0 +1,161 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:6: ����: �Ҳ�������
+import org.joda.time.DateTime;
+                    ^
+  ����:   �� DateTime
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:7: ����: �Ҳ�������
+import org.joda.time.DateTimeFieldType;
+                    ^
+  ����:   �� DateTimeFieldType
+  λ��: ����� org.joda.time
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:8: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatter;
+                           ^
+  ����:   �� DateTimeFormatter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:9: ����: �Ҳ�������
+import org.joda.time.format.DateTimeFormatterBuilder;
+                           ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:10: ����: �Ҳ�������
+import org.joda.time.format.DateTimeParser;
+                           ^
+  ����:   �� DateTimeParser
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:11: ����: �Ҳ�������
+import org.joda.time.format.DateTimePrinter;
+                           ^
+  ����:   �� DateTimePrinter
+  λ��: ����� org.joda.time.format
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:15: ����: �Ҳ�������
+    private DateTimeFormatterBuilder builder;
+            ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:19: ����: �Ҳ�������
+        builder = new DateTimeFormatterBuilder();
+                      ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:31: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:36: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:36: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 15, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:40: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("Date: 2023-05-15");
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:48: ����: �Ҳ�������
+        builder.appendDecimal(DateTimeFieldType.hourOfDay(), 1, 2)
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:50: ����: �Ҳ�������
+               .appendDecimal(DateTimeFieldType.minuteOfHour(), 2, 2);
+                              ^
+  ����:   ���� DateTimeFieldType
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:52: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:53: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 1, 1, 9, 5);
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:53: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 1, 1, 9, 5);
+                                ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:57: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("09:05");
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:70: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:71: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 12, 25, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:71: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 12, 25, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:75: ����: �Ҳ�������
+        DateTime parsed = formatter.parseDateTime("December 25, 2023");
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:83: ����: �Ҳ�������
+        builder.append((DateTimeFormatter) null);
+                        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:94: ����: �Ҳ�������
+        DateTimeFormatter formatter1 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:99: ����: �Ҳ�������
+        DateTimeFormatter formatter2 = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:102: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:102: ����: �Ҳ�������
+        DateTime dateTime = new DateTime(2023, 5, 1, 0, 0);
+                                ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:114: ����: �Ҳ�������
+                   new DateTimeFormatterBuilder()
+                       ^
+  ����:   �� DateTimeFormatterBuilder
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:120: ����: �Ҳ�������
+        DateTimeFormatter formatter = builder.toFormatter();
+        ^
+  ����:   �� DateTimeFormatter
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:122: ����: �Ҳ�������
+        DateTime parsedWithMinutes = formatter.parseDateTime("T14:30");
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Time\23\deepseek\DateTimeZoneTest.java:126: ����: �Ҳ�������
+        DateTime parsedWithoutMinutes = formatter.parseDateTime("T14");
+        ^
+  ����:   �� DateTime
+  λ��: �� DateTimeZoneTest
+31 ������
+

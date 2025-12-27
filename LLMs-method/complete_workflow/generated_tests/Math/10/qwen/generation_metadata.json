@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Math",
+  "bug_id": 10,
+  "model": "QWEN",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Math\\10\\code\\org\\apache\\commons\\math3\\util\\FastMathLiteralArrays.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Math\\10\\qwen\\FastMathLiteralArraysTest.java",
+  "metadata": {
+    "test_class_name": "FastMathLiteralArraysTest",
+    "package_name": "org.apache.commons.math3.util",
+    "num_assertions": 67,
+    "num_test_methods": 6,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

@@ -1,0 +1,35 @@
+STDOUT:
+
+
+STDERR:
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:15: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.EXP_INT_A.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:16: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("Should return a clone, not the same array", result, FastMathLiteralArrays.EXP_INT_A);
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:65: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+        assertThat("Array length should match original", result.length, is(FastMathLiteralArrays.LN_MANT.length));
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:66: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("Should return a clone, not the same array", result, FastMathLiteralArrays.LN_MANT);
+                                                                                                ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:97: ����: EXP_INT_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("loadExpIntA should return clone", expIntA, FastMathLiteralArrays.EXP_INT_A);
+                                                                                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:98: ����: EXP_INT_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("loadExpIntB should return clone", expIntB, FastMathLiteralArrays.EXP_INT_B);
+                                                                                       ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:99: ����: EXP_FRAC_A �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("loadExpFracA should return clone", expFracA, FastMathLiteralArrays.EXP_FRAC_A);
+                                                                                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:100: ����: EXP_FRAC_B �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("loadExpFracB should return clone", expFracB, FastMathLiteralArrays.EXP_FRAC_B);
+                                                                                         ^
+Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.java:101: ����: LN_MANT �� FastMathLiteralArrays ���� private ���ʿ���
+        assertNotSame("loadLnMant should return clone", lnMant, FastMathLiteralArrays.LN_MANT);
+                                                                                     ^
+ע: Z:\��һ�γ�\�������\CS224_copilot\ShanghaiTech-CS224-Project\llm_experiment_results_v2\complete_workflow\generated_tests\Math\37\qwen\ComplexTest.javaʹ�û򸲸����ѹ�ʱ�� API��
+ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:deprecation ���±��롣
+9 ������
+

@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "28",
+  "model": "qwen",
+  "test_class": "SimplexSolverTest",
+  "test_file": "SimplexSolverTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 100.0,
+    "branch_coverage": 100.0,
+    "lines_covered": 79,
+    "lines_valid": 79,
+    "branches_covered": 48,
+    "branches_valid": 48
+  },
+  "timestamp": "2025-12-26T21:17:12.408058"
+}

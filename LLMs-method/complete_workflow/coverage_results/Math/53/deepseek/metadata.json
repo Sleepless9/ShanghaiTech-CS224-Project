@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "53",
+  "model": "deepseek",
+  "test_class": "ComplexTest",
+  "test_file": "ComplexTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 95.88,
+    "branch_coverage": 92.98,
+    "lines_covered": 163,
+    "lines_valid": 170,
+    "branches_covered": 106,
+    "branches_valid": 114
+  },
+  "timestamp": "2025-12-26T21:28:34.459504"
+}

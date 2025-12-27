@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": "Jsoup",
+  "bug_id": 4,
+  "model": "DEEPSEEK",
+  "target_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\experiment_80_final\\Jsoup\\4\\code\\org\\jsoup\\nodes\\Entities.java",
+  "test_file": "Z:\\研一课程\\程序分析\\CS224_copilot\\ShanghaiTech-CS224-Project\\llm_experiment_results\\complete_workflow\\generated_tests\\Jsoup\\4\\deepseek\\EntitiesTest.java",
+  "metadata": {
+    "test_class_name": "EntitiesTest",
+    "package_name": "org.jsoup.nodes",
+    "num_assertions": 26,
+    "num_test_methods": 6,
+    "attempts": 1
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}

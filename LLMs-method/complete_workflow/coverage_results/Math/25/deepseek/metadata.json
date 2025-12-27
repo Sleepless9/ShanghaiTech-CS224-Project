@@ -1,0 +1,20 @@
+{
+  "project": "Math",
+  "bug_id": "25",
+  "model": "deepseek",
+  "test_class": "HarmonicFitterTest",
+  "test_file": "HarmonicFitterTest.java",
+  "checkout_success": true,
+  "compile_success": true,
+  "test_passed": true,
+  "coverage_success": true,
+  "coverage_data": {
+    "line_coverage": 98.94,
+    "branch_coverage": 92.86,
+    "lines_covered": 93,
+    "lines_valid": 94,
+    "branches_covered": 26,
+    "branches_valid": 28
+  },
+  "timestamp": "2025-12-26T21:09:52.172053"
+}
