@@ -1,0 +1,13 @@
+######  Start test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 05:45:44  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Lang
+ -v 12b
+ -n 1
+ -b 180
+ -c /defects4j/framework/projects/Lang/modified_classes/12.src
+ -s 1012
+Created test suite archive: Lang-12b-randoop.1.tar.bz2
+Moved test suite archive to output directory: /defects4j/experiment_80/Lang/12/baseline/randoop/Lang/randoop/1
+######  End test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 05:49:08  ######

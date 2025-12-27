@@ -1,0 +1,13 @@
+######  Start test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 08:18:04  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Math
+ -v 5b
+ -n 1
+ -b 180
+ -c /defects4j/framework/projects/Math/modified_classes/5.src
+ -s 1005
+Created test suite archive: Math-5b-randoop.1.tar.bz2
+Moved test suite archive to output directory: /defects4j/experiment_80/Math/5/baseline/randoop/Math/randoop/1
+######  End test generation  /defects4j/framework/bin/gen_tests.pl: 2025-12-22 08:21:11  ######
